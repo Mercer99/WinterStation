@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 *.log
+*.bin
+*.ini
+WinterStation/Saved/Logs/WinterStation.log
