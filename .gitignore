@@ -73,7 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
-*.log
 *.bin
 *.ini
 WinterStation/Saved/Logs/WinterStation.log
